@@ -1,0 +1,52 @@
+/*
+crontab.us css
+*/
+ body {
+  background-color: #001C2B;
+ }
+h1 {
+  text-align: center;
+  font-family: georgia, sans-serif;
+  font-size: 2.75em;
+  color: #001C2B;
+}
+a {
+  text-decoration: none;
+}
+a:visited {
+color: #001C2B;
+text-decoration: none;
+}
+
+label {
+  display: block;
+  padding-top: 20px;
+  text-decoration: underline;
+}
+
+#cron-result {
+  padding: 30px;
+  letter-spacing: 1.5px;
+  font-family: 'Ubuntu Mono', sans-serif;
+  font-size: 1.25em;
+  background-color: #002438;
+  color: #FFF;
+}
+.marque {
+	width: 600px;
+	margin: 0 auto; 
+	height: 100%;
+	padding: 50px;
+  background-color: #FFF;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  font-size: 1.25em;
+}
+
+.legeleze {
+  padding-top: 20px;
+  font-size: .75em;
+  font-style: italic;
+  border-top: 1px solid;
+}

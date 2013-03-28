@@ -1,0 +1,15 @@
+
+                            
+/* TEAM */                            
+Your title: Eric Courville                                   
+Twitter: @ericcourville                          
+Location: California, USA.
+				
+/* THANKS */
+Google AngularJS team
+Twitter: @angularjs
+      
+/* SITE */                          
+Last update: 2013/03/25                                                
+Components: AngularJS                          
+Software: SublimeText2, Photoshop CS6, Illustrator CS6
